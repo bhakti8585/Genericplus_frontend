@@ -330,7 +330,7 @@ const CartData = ({
           - {discountPercentenge ? "Rs" + discountPercentenge.toString() : null}
         </h5>
       </div>
-      <h5 className="text-[18px] font-[600] text-end pt-3">${totalPrice}</h5>
+      <h5 className="text-[18px] font-[600] text-end pt-3">Rs{totalPrice}</h5>
       <br />
       <form onSubmit={handleSubmit}>
         <input
