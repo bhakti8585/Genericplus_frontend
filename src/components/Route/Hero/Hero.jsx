@@ -18,10 +18,7 @@ const Hero = () => {
           Best Medicines <br /> @ Best Rates
         </h1>
         <p className="pt-5 text-[16px] font-[Poppins] font-[400] text-[#000000ba]">
-          Lorem ipsum dolor sit amet consectetur, adipisicing elit. Beatae,
-          assumenda? Quisquam itaque <br /> exercitationem labore vel, dolore
-          quidem asperiores, laudantium temporibus soluta optio consequatur{" "}
-          <br /> aliquam deserunt officia. Dolorum saepe nulla provident.
+        Explore our comprehensive online pharmacy for high-quality generic medicines. Discover affordable alternatives to brand-name drugs, ensuring reliable and cost-effective healthcare solutions for all your wellness needs.
         </p>
         <Link to="/products" className="inline-block">
           <div className={`${styles.button} mt-5`}>
